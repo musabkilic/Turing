@@ -8,3 +8,6 @@
 
 ### EUC (6,8 => 2)
 ![](https://github.com/musabkilic/Turing/raw/main/res/EUC.gif)
+
+### XN + 1 (167 => 168)
+![](https://github.com/musabkilic/Turing/raw/main/res/XN+1.gif)
