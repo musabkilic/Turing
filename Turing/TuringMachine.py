@@ -4,6 +4,7 @@ class TuringMachine:
         self.state = "0"
         self.commands = commands
         self.halt = False
+        self.l_state = len(max(self.commands, key=len))
 
     def __bool__(self):
         return not self.halt
@@ -20,4 +21,5 @@ class TuringMachine:
             self.halt = True
 
     def view(self, a=-5, b=10):
-        return "{}: {}".format(self.state, self.tape.view(a, b))
+        return "{}: {}".format(self.state.zfill(self.l_state),
+                               self.tape.view(a, b))
