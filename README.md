@@ -11,3 +11,6 @@
 
 ### XN + 1 (167 => 168)
 ![](https://github.com/musabkilic/Turing/raw/main/res/XN+1.gif)
+
+### XN * 2 (6 => 12)
+![](https://github.com/musabkilic/Turing/raw/main/res/XN*2.gif)
