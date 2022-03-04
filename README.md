@@ -5,3 +5,6 @@
 
 ### UN * 2 (4 => 8)
 ![](https://github.com/musabkilic/Turing/raw/main/res/UN*2.gif)
+
+### EUC (6,8 => 2)
+![](https://github.com/musabkilic/Turing/raw/main/res/EUC.gif)
